@@ -1,0 +1,59 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  width: 1300px;
+  margin: 0px auto;
+}
+
+.header {
+  background-image: url(../img/img-bgi.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 788px;
+  /* position: relative; */
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  padding: 40px;
+}
+
+.ul {
+  display: flex;
+  align-items: center;
+}
+
+.img-logo {
+  margin-right: 70px;
+}
+
+.li-1 {
+  list-style: none;
+}
+
+.li {
+  margin-left: 30px;
+  list-style: none;
+}
+
+.link-nav {
+  text-decoration: none;
+  font-family: 'Paytone One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  
+  color: #FFFFFF;
+}
+
+
+.alpine-box {
+  background-image: url(../img/maincountainer.png);
+  background-repeat: no-repeat;
+}
